@@ -3,7 +3,7 @@
   "openrepos.io": {},
   "openrepos.org": {
     "kubecell": {
-      "repo": "https://github.com/taosher/Kubecell",
+      "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
     }
   },
