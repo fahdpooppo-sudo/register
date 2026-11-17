@@ -9,7 +9,7 @@
   },
   "openrepos.sh": {},
   "repos.one": {
-    "f-studio-apps": {
+    "f-studio": {
       "repo": "https://github.com/fahdpooppo-sudo/f-Studio-apps.io",
       "target": "f-studio.pages.dev"
     }
